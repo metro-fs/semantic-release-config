@@ -1,0 +1,30 @@
+{
+  "name": "@metro-fs/semantic-release-config",
+  "version": "1.0.0",
+  "description": "A shareable semantic release configuration package that enforces Metro FS's release conventions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metro-fs/semantic-release-config.git"
+  },
+  "keywords": [
+    "semantic-release",
+    "configuration",
+    "Metro FS",
+    "versioning",
+    "changelog",
+    "NPM publishing"
+  ],
+  "author": "Metro FS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metro-fs/semantic-release-config/issues"
+  },
+  "homepage": "https://github.com/metro-fs/semantic-release-config#readme",
+  "devDependencies": {
+    "semantic-release": "21.0.7"
+  }
+}
