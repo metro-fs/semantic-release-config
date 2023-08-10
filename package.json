@@ -1,5 +1,8 @@
 {
   "name": "@metro-fs/semantic-release-config",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "1.0.0",
   "description": "A shareable semantic release configuration package that enforces Metro FS's release conventions.",
   "main": "index.js",
