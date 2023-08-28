@@ -29,6 +29,6 @@
   "homepage": "https://github.com/metro-fs/semantic-release-config#readme",
   "devDependencies": {
     "conventional-changelog-conventionalcommits": "6.1.0",
-    "semantic-release": "21.0.7"
+    "semantic-release": "21.1.1"
   }
 }
