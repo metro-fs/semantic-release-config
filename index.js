@@ -70,6 +70,11 @@ module.exports = {
           "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}",
       },
     ],
-    "@semantic-release/gitlab",
+    [
+      "@semantic-release/gitlab",
+      {
+        successComment: false,
+      },
+    ],
   ],
 };
